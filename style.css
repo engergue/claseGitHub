@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    width: 100%;
+    background-color: lightsalmon;
+}
+
+h1{
+    background-color: lightseagreen;
+    font-size: 30px;
+}
